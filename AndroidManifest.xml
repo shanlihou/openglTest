@@ -14,5 +14,6 @@
         </activity>
         <activity android:name=".ViewTest"></activity>
         <activity android:name=".Run"></activity>
+        <activity android:name=".test2Activity"></activity>
     </application>
 </manifest>
